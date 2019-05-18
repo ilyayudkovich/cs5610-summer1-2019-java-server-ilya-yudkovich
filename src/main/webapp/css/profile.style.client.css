@@ -1,0 +1,11 @@
+.container {
+  margin-top: 40px;
+  }
+  
+.btn-primary {
+  width: 100%;
+}
+
+.alert {
+  display: none;
+}
